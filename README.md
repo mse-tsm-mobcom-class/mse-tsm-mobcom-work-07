@@ -3,7 +3,7 @@
 For slides and example code, see [lesson 7](../../../mse-tsm-mobcom/blob/master/07/README.md)
 
 > *Note: Do not work on this repository right away.*<br/>
-> *[Check existing forks to find the specific repository for your class.](../../network/members)*
+> *[Create your personal copy by clicking this GitHub Classroom link](https://classroom.github.com/a/daKqa8-Y).*
 
 ### a) Android BLE scanner, 10'
 * Build and run the [MyBleScannerApp example code](https://github.com/tamberg/mse-tsm-mobcom/tree/master/07/Android/MyBleScannerApp).
